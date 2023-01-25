@@ -23,14 +23,11 @@ How you will display it on the front-end is totally up to you. It might react, j
 
 QR code must be regenerated every 10 seconds and return a new link to another 10 random movies.
 
-
-
-
 ## Demo movies JSON
  https://gist.github.com/saniyusuf/406b843afdfb9c6a86e25753fe2761f4
 
-
-
+ ## How to submit a task
+Place your code on github, gitlab or bitbucket and send us back a link to it. Make sure repository is public and we can access it.
 
 ## Important hints
 1. It is not required to integrate a database in this task, but if you will do it, it will be a plus for you (especially postgres + prisma).
