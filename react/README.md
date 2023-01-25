@@ -1,3 +1,5 @@
+![](https://i.imgur.com/oCeBmv4.png)
+
 # Map with Weather
 
 Create an app which will display a weather for a list of cities on the map. 

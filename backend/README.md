@@ -1,3 +1,5 @@
+![](https://i.imgur.com/MHzLuKq.png)
+
 # QR Code Generator
 
 Create a QR code generator. After scanning a QR code there should be a link to the page with rendered 10 random movies (title + image).
