@@ -6,7 +6,7 @@ Create a secured notes app, so every user will be able to register, login and cr
 
 ## Requirements
 
-1. Project must be done React.js and Next.js
+1. Project must be done React.js and Nest.js
 2. You should use typescript.
 3. Project should be deployed and be available live.
 5. You can use any other additional libs if you need, it is up to you.
