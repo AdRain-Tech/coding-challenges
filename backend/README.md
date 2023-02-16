@@ -7,9 +7,9 @@ Create a QR code generator. After scanning a QR code there should be a link to t
 
 ## Requirements
 
-1. Project must be done in Nest.js
-2. You should use typescript.
-3. Project should be on some free platform (Heroku, etc.) and must be available to test online. We want to make sure you are aware of how to deploy apps.
+1. Project must be done in **Nest.js**
+2. You should use **Typescript**.
+3. Project **should be deployed** (free platform like Heroku, etc.) and **must be available to test online**. We want to make sure you are aware of how to deploy apps.
 4. Place your code on github (or any other platform you prefer to store your code). Send us back a link to it. Make sure it is public.
 
 ## Your task
